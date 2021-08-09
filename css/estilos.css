@@ -1,0 +1,31 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+header{
+	padding: 15px 0px;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Slabo 27px', serif;
+}
+section{
+	padding-top: 100px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+.dan{
+	padding: 10px;
+	background-color: #DF1C44;
+	color: white;
+	font-family: 'Slabo 27px', serif;
+}
+.exi{
+	padding: 10px;
+	background-color: #194A8D;
+	color: white;
+	font-family: 'Slabo 27px', serif;
+}
